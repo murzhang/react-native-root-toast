@@ -51,7 +51,7 @@
     "url": "https://github.com/magicismight/react-native-root-toast/issues"
   },
   "dependencies": {
-    "react-native-root-siblings": "^1.2.1"
+    "react-native-root-siblings": "1.2.1"
   },
   "description": "react native toast like component, pure javascript solution",
   "devDependencies": {},
